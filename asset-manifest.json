@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/Plants-Store/static/css/main.f127af67.css",
-    "main.js": "/Plants-Store/static/js/main.c0c16356.js",
-    "index.html": "/Plants-Store/index.html",
-    "main.f127af67.css.map": "/Plants-Store/static/css/main.f127af67.css.map",
-    "main.c0c16356.js.map": "/Plants-Store/static/js/main.c0c16356.js.map"
+    "main.css": "/Twitter-with-Tailwind-React/static/css/main.0e9d6f0c.css",
+    "main.js": "/Twitter-with-Tailwind-React/static/js/main.f7d6b5ca.js",
+    "static/media/king.png": "/Twitter-with-Tailwind-React/static/media/king.8d3610dd9db950d0dcb0.png",
+    "static/media/TheLord.jpg": "/Twitter-with-Tailwind-React/static/media/TheLord.1e8322ad24a1d000ac7e.jpg",
+    "index.html": "/Twitter-with-Tailwind-React/index.html",
+    "main.0e9d6f0c.css.map": "/Twitter-with-Tailwind-React/static/css/main.0e9d6f0c.css.map",
+    "main.f7d6b5ca.js.map": "/Twitter-with-Tailwind-React/static/js/main.f7d6b5ca.js.map"
   },
   "entrypoints": [
-    "static/css/main.f127af67.css",
-    "static/js/main.c0c16356.js"
+    "static/css/main.0e9d6f0c.css",
+    "static/js/main.f7d6b5ca.js"
   ]
 }
